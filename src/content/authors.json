@@ -1,0 +1,19 @@
+{
+  "authors": [
+    {
+      "id": "authors-TGyG20fj",
+      "name": "Test Author",
+      "slug": "test-author"
+    },
+    {
+      "id": "authors-cujRWWo1",
+      "name": "No Name",
+      "slug": "no-name"
+    },
+    {
+      "id": "authors-Tgk4Ap1",
+      "name": "Unnamed Author",
+      "slug": "unnamed-author"
+    }
+  ]
+}
