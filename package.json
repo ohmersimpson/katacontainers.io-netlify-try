@@ -6,7 +6,7 @@
   "dependencies": {
     "@ncwidgets/file-relation": "^0.5.0",
     "@ncwidgets/id": "^0.5.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.8.0",
     "gatsby": "^2.19.45",
     "gatsby-cli": "^2.10.11",
